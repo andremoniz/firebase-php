@@ -1,10 +1,12 @@
 <?php
+
+use FirebaseInterface;
+
 /**
  * Stubs the Firebase interface without issuing any cURL requests.
  **/
 
-class FirebaseStub
-    implements FirebaseInterface
+class FirebaseStub implements FirebaseInterface
 {
     private $_response = null;
 

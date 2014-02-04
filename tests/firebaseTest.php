@@ -1,7 +1,5 @@
 <?php
 
-require_once join('/', array(__DIR__, '..', 'firebaseLib.php'));
-
 class FirebaseTest extends PHPUnit_Framework_TestCase
 {
   protected $_firebase;

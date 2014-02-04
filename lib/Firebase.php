@@ -1,6 +1,6 @@
 <?php
 
-require_once dirname(__FILE__).DIRECTORY_SEPARATOR.'lib'.DIRECTORY_SEPARATOR.'FirebaseInterface.php';
+use FirebaseInterface;
 
 /**
  * Firebase PHP Client Library

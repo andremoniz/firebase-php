@@ -1,0 +1,16 @@
+{
+    "name": "ktamas77/firebase",
+    "type": "library",
+    "description": "firebase-php is a PHP port of the firebase REST API",
+    "keywords": ["firebase"],
+    "homepage": "https://github.com/ktamas77/firebase-php/",
+    "authors": [
+        {
+            "name": "Tamas Kalman",
+            "email": "ktamas77@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Firebase": "lib/" }
+    }
+}
