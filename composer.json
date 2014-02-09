@@ -1,5 +1,5 @@
 {
-    "name": "giorgiolino/firebase-php",
+    "name": "ktamas77/firebase-php",
     "type": "library",
     "description": "firebase-php is a PHP port of the firebase REST API",
     "keywords": ["firebase"],
