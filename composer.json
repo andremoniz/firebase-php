@@ -4,7 +4,7 @@
     "description": "firebase-php is a PHP port of the firebase REST API",
     "keywords": ["firebase"],
     "homepage": "https://github.com/ktamas77/firebase-php/",
-    "license": "MIT"
+    "license": "MIT",
     "authors": [
         {
             "name": "Tamas Kalman",
