@@ -1,18 +1,22 @@
 {
-    "name": "ktamas77/firebase-php",
-    "type": "library",
-    "description": "firebase-php is a PHP port of the firebase REST API",
-    "keywords": ["firebase"],
-    "homepage": "https://github.com/ktamas77/firebase-php/",
-    "type":"library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Tamas Kalman",
-            "email": "ktamas77@gmail.com"
-        }
-    ],
-    "autoload": {
-        "psr-0": { "Firebase": "lib/" }
-    }
+	"name": "ktamas77/firebase-php",
+	"type": "library",
+	"description": "firebase-php is a PHP port of the firebase REST API",
+	"keywords": ["firebase"],
+	"homepage": "https://github.com/ktamas77/firebase-php/",
+	"type": "library",
+	"license": "MIT",
+	"authors": [{
+		"name": "Tamas Kalman",
+		"email": "ktamas77@gmail.com"
+	}],
+	"autoload": {
+		"psr-0": {
+			"Firebase": "lib/"
+		}
+	},
+	"require": {
+		"php": ">=5.3.0",
+		"ext-curl": "*"
+	}
 }

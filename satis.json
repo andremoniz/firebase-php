@@ -1,0 +1,9 @@
+{
+	"repositories": [{
+		"name": "ktamas77/firebase-php",
+		"type": "vcs",
+		"url": "https://github.com/Giorgiolino/firebase-php",
+		"homepage": "http://github.com/ktamas77/firebase-php/"
+	}],
+	"require-all": true
+}
