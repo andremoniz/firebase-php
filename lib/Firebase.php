@@ -1,6 +1,6 @@
 <?php
 
-use FirebaseInterface;
+//use FirebaseInterface;
 
 /**
  * Firebase PHP Client Library
